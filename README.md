@@ -1,1 +1,1 @@
-# sinal_audio
+# gráfico do sinal de áudio
