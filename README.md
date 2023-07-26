@@ -30,14 +30,14 @@ Para executar o projeto, siga os passos abaixo:
 
 O projeto irá carregar o sinal de áudio, plotar o gráfico do sinal de áudio, calcular a Transformada de Fourier e plotar o gráfico da Transformada de Fourier. Em seguida, calculará e plotará o espectrograma do sinal de áudio.
 # Sinal de Áudio
-<p align="center"><img src="./img/1.png" width="500"></p>
+<p align="center"><img src="./Img/1.png" width="500"></p>
 
 # Fourier 
-<p align="center"><img src="./img/2.png" width="500"></p>
+<p align="center"><img src="./Img/2.png" width="500"></p>
 
 # Espectrograma
-<p align="center"><img src="./img/3.png" width="500"></p>
-<p align="center"><img src="./img/4.png" width="500"></p>
+<p align="center"><img src="./Img/3.png" width="500"></p>
+<p align="center"><img src="./Img/4.png" width="500"></p>
 
 ## Observações
 
