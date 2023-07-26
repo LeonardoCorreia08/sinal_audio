@@ -10,9 +10,9 @@ Para executar o projeto, siga os passos abaixo:
 
 2. Instale as dependências necessárias utilizando o comando:
 
-3. Defina o caminho para o arquivo de áudio na variável `file_path` no arquivo `main.py`.
+3. Defina o caminho para o arquivo de áudio na variável `file_path` no arquivo `Sinais_de_Audios.py`.
 
-4. Execute o script `main.py` para carregar e analisar o áudio.
+4. Execute o script `Sinais_de_Audios.py` para carregar e analisar o áudio.
 
 ## Funções Implementadas
 
