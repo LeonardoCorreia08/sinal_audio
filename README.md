@@ -1,6 +1,6 @@
 # # Análise de Áudio com Librosa
 
-Este é um projeto de análise de áudio utilizando a biblioteca Librosa para carregar e processar o sinal de áudio. O objetivo é realizar a plotagem do sinal de áudio, calcular a Transformada de Fourier e o espectrograma.
+Este é um projeto de análise de áudio utilizando a biblioteca Librosa para carregar e processar o sinal de áudio. O objetivo é realizar a plotagem do sinal de áudio, calcular a Transformada de Fourier e o espectrograma...
 
 ## Como Executar
 
