@@ -12,7 +12,7 @@ Para executar o projeto, siga os passos abaixo:
 
 3. Defina o caminho para o arquivo de áudio na variável `file_path` no arquivo `Sinais_de_Audios.py`.
 
-4. Execute o script `Sinais_de_Audios.py` para carregar e analisar o áudio.
+4. Execute o script `Sinais_de_Audios.py` para carregar e analisar o áudio... 
 
 ## Funções Implementadas
 
